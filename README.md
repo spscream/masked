@@ -1,6 +1,6 @@
 # Masked
 
-Gem created for testing task for scalex company.
+Gem created as testing task for scalex company.
 
 It makes possible to mask input using @@@-like masks. eg:
 
