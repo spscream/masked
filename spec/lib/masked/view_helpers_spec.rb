@@ -10,7 +10,7 @@ describe Masked::ViewHelpers do
   describe '#masked' do
     describe 'mask is @@@ and input is 5432' do
       it 'returns 5432' do
-        expect(@dummy.masked  ('@@@', '5432')).to eq '5432'
+        expect(@dummy.masked('@@@', '5432')).to eq '5432'
       end
     end
   end
